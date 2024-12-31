@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3dCube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2416C9F7-D4E2-475A-8A9B-C0EAD4686FF9}|3dcube\\3dcube.vcxproj|D:\\3dCube\\3dcube\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2416C9F7-D4E2-475A-8A9B-C0EAD4686FF9}|3dcube\\3dcube.vcxproj|solutionrelative:3dcube\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2416C9F7-D4E2-475A-8A9B-C0EAD4686FF9}|3dcube\\3dcube.vcxproj|D:\\3dCube\\3dcube\\src\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2416C9F7-D4E2-475A-8A9B-C0EAD4686FF9}|3dcube\\3dcube.vcxproj|solutionrelative:3dcube\\src\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2416C9F7-D4E2-475A-8A9B-C0EAD4686FF9}|3dcube\\3dcube.vcxproj|D:\\3dCube\\3dcube\\src\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2416C9F7-D4E2-475A-8A9B-C0EAD4686FF9}|3dcube\\3dcube.vcxproj|solutionrelative:3dcube\\src\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2416C9F7-D4E2-475A-8A9B-C0EAD4686FF9}|3dcube\\3dcube.vcxproj|D:\\3dCube\\3dcube\\assets\\vertex_core.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2416C9F7-D4E2-475A-8A9B-C0EAD4686FF9}|3dcube\\3dcube.vcxproj|solutionrelative:3dcube\\assets\\vertex_core.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2416C9F7-D4E2-475A-8A9B-C0EAD4686FF9}|3dcube\\3dcube.vcxproj|D:\\3dCube\\3dcube\\assets\\fragment_core.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2416C9F7-D4E2-475A-8A9B-C0EAD4686FF9}|3dcube\\3dcube.vcxproj|solutionrelative:3dcube\\assets\\fragment_core.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shader.h",
+              "DocumentMoniker": "D:\\3dCube\\3dcube\\src\\Shader.h",
+              "RelativeDocumentMoniker": "3dcube\\src\\Shader.h",
+              "ToolTip": "D:\\3dCube\\3dcube\\src\\Shader.h",
+              "RelativeToolTip": "3dcube\\src\\Shader.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-31T09:46:43.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shader.cpp",
+              "DocumentMoniker": "D:\\3dCube\\3dcube\\src\\Shader.cpp",
+              "RelativeDocumentMoniker": "3dcube\\src\\Shader.cpp",
+              "ToolTip": "D:\\3dCube\\3dcube\\src\\Shader.cpp",
+              "RelativeToolTip": "3dcube\\src\\Shader.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-31T09:55:08.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\3dCube\\3dcube\\src\\main.cpp",
+              "RelativeDocumentMoniker": "3dcube\\src\\main.cpp",
+              "ToolTip": "D:\\3dCube\\3dcube\\src\\main.cpp",
+              "RelativeToolTip": "3dcube\\src\\main.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-29T18:15:37.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fragment_core.glsl",
+              "DocumentMoniker": "D:\\3dCube\\3dcube\\assets\\fragment_core.glsl",
+              "RelativeDocumentMoniker": "3dcube\\assets\\fragment_core.glsl",
+              "ToolTip": "D:\\3dCube\\3dcube\\assets\\fragment_core.glsl",
+              "RelativeToolTip": "3dcube\\assets\\fragment_core.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-29T18:11:19.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vertex_core.glsl",
+              "DocumentMoniker": "D:\\3dCube\\3dcube\\assets\\vertex_core.glsl",
+              "RelativeDocumentMoniker": "3dcube\\assets\\vertex_core.glsl",
+              "ToolTip": "D:\\3dCube\\3dcube\\assets\\vertex_core.glsl",
+              "RelativeToolTip": "3dcube\\assets\\vertex_core.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-29T18:11:31.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

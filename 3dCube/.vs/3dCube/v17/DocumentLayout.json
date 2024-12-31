@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3dCube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2416C9F7-D4E2-475A-8A9B-C0EAD4686FF9}|3dcube\\3dcube.vcxproj|D:\\3dCube\\3dcube\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2416C9F7-D4E2-475A-8A9B-C0EAD4686FF9}|3dcube\\3dcube.vcxproj|solutionrelative:3dcube\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\3dCube\\3dcube\\src\\main.cpp",
+              "RelativeDocumentMoniker": "3dcube\\src\\main.cpp",
+              "ToolTip": "D:\\3dCube\\3dcube\\src\\main.cpp",
+              "RelativeToolTip": "3dcube\\src\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-29T18:15:37.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
