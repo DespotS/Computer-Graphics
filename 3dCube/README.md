@@ -1,6 +1,6 @@
 ## How to Build
 1. Clone the repository:
-   `git clone https://github.com/DespotS/Computer-Graphics/3dCube.git`
+   `git clone https://github.com/DespotS/Computer-Graphics.git`
 2. Install the required libraries:
    - GLFW
    - GLAD
