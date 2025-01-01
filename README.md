@@ -1,34 +1,53 @@
-# Computer-Graphics
+Computer-Graphics
+This repository contains projects exploring the fascinating world of computer graphics. The focus is on implementing both 2D and 3D graphical applications, showcasing various techniques and concepts used in the field.
 
-This repository contains projects exploring the fascinating world of computer graphics. The focus is on implementing both 2D and 3D graphical applications, showcasing various techniques and concepts used in the field. 
+Projects Overview
 
----
+1. 2D Graphics with JavaFX
+A project demonstrating 2D graphics using the JavaFX framework.
+Features include:
+Custom shapes and animations.
+User interactions and event handling.
+Rendering optimization for smooth performance.
 
-## Projects Overview
+2. 3D Cube Project (OpenGL)
+A project showcasing a rotating 3D cube implemented with OpenGL.
+Features include:
+Real-time rendering: A fully interactive 3D cube.
+Custom shaders: Written in GLSL for rendering effects.
+Keyboard controls: Move the cube in 3D space.
+Depth testing: Proper rendering of cube faces using depth buffers.
 
-### 1. 2D Graphics with JavaFX
-- A project demonstrating 2D graphics using the JavaFX framework.
-- Features include:
-  - Custom shapes and animations.
-  - User interactions and event handling.
-  - Rendering optimization for smooth performance.
+Prerequisites
+2D Project:
+Requires Java 11 or later and JavaFX SDK.
+3D Cube Project:
+Requires:
+OpenGL (Version 3.3 or higher).
+Development tools such as Visual Studio (or similar).
+Libraries: GLFW, GLAD, stb_image, and glm.
+Installation and Testing (3D Cube)
+Download the Project:
 
-### 2. 3D Graphics with OpenGL (Coming Soon)
-- A planned project to showcase 3D graphics using OpenGL.
-- Planned features include:
-  - Real-time rendering of 3D objects.
-  - Basic transformations (translation, rotation, scaling).
-  - Lighting and shading techniques.
+Clone the repository:
+bash
+Copiază codul
+git clone https://github.com/DespotS/Computer-Graphics.git
+Or download the provided .zip file and extract it.
+Open the Project:
 
----
+Open the 3dcube.sln file in Visual Studio (or your preferred IDE).
+Build and Run:
 
-## Getting Started
+Ensure the required libraries (GLFW, GLAD, stb_image, glm) are included in the project.
+Build the solution using the Debug or Release configuration.
+Run the executable (3dcube.exe) located in 3dCube/x64/Debug/.
+Controls:
 
-### Prerequisites
-- **2D Project**: Requires Java 11 or later and JavaFX SDK.
-- **3D Project (Future)**: Will require OpenGL libraries and a compatible development environment.
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/DespotS/Computer-Graphics.git
+W: Move the cube upward.
+S: Move the cube downward.
+A: Move the cube left.
+D: Move the cube right.
+Q: Zoom in.
+E: Zoom out.
+ESC: Exit the program.0
