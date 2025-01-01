@@ -2,6 +2,8 @@
 
 A modern take on the classic arcade game *Space Invaders*, developed using JavaFX. Defend Earth from waves of aliens and aim for the highest score!
 
+![My Photo](start.jpg)
+
 ## Features
 - **Smooth gameplay** with real-time movement and shooting mechanics.
 - **Dynamic levels** that increase in difficulty as you progress.
