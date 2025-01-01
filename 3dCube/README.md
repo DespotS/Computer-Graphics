@@ -1,3 +1,10 @@
+# 3D Cube
+
+![Start Screen](3d_cube.jpeg)
+
+
+
+
 ## How to Build
 1. Clone the repository:
    `git clone https://github.com/DespotS/Computer-Graphics.git`
